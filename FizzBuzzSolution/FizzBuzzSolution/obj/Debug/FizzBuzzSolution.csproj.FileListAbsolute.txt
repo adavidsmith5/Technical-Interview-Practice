@@ -1,0 +1,6 @@
+D:\Tony\Documents\Technical-Interview-Practice\FizzBuzzSolution\FizzBuzzSolution\bin\Debug\FizzBuzzSolution.exe.config
+D:\Tony\Documents\Technical-Interview-Practice\FizzBuzzSolution\FizzBuzzSolution\bin\Debug\FizzBuzzSolution.exe
+D:\Tony\Documents\Technical-Interview-Practice\FizzBuzzSolution\FizzBuzzSolution\bin\Debug\FizzBuzzSolution.pdb
+D:\Tony\Documents\Technical-Interview-Practice\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.csproj.CoreCompileInputs.cache
+D:\Tony\Documents\Technical-Interview-Practice\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.exe
+D:\Tony\Documents\Technical-Interview-Practice\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.pdb
