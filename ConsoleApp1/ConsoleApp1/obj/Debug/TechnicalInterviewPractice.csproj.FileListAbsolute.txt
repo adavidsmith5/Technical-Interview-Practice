@@ -1,0 +1,7 @@
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\obj\Debug\TechnicalInterviewPractice.csprojAssemblyReference.cache
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\obj\Debug\TechnicalInterviewPractice.csproj.CoreCompileInputs.cache
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Tony\Documents\Technical-Interview-Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
